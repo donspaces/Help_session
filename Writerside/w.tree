@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="w"
+                 name="Welcome"
+                 start-page="welcome.md">
+
+    <toc-element topic="welcome.md"/>
+    <toc-element topic="Web-game-Blackhole-2-0.md"/>
+    <toc-element topic="Game-Download-Page.md"/>
+    <toc-element topic="Website-map-future.md"/>
+</instance-profile>

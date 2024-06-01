@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" is-library="true"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="library" id="library">
+
+    <snippet id="email">
+        <code-block lang="tex">
+            root@donspaces.com
+        </code-block>
+    </snippet>
+    <snippet id="email-link">
+        <a href="https://www.donspaces.com/welcome.html#contact-us">email</a>
+    </snippet>
+    <snippet id="game-link">
+        <a href="https://www.donspaces.com/games">https://www.donspaces.com/games</a>
+    </snippet>
+</topic>
